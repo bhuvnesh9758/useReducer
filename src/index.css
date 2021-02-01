@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+}
+.container{
+  width: 100%;
+  text-align: center;
+  margin-top: 20px;
+}
+label{
+  margin: 10px; 
+  text-transform: capitalize;
+}
+.div-input{
+  padding-top: 30px;
+  text-align: center;
+  border: 1px solid grey;
+  height: 50vh;
+  width: 50vw;
+  margin: auto;
+}
+input{
+  margin: 10px;
+}
+.error{
+  color: red;
+}
